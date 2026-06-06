@@ -1,0 +1,332 @@
+[
+  {
+    "id": 1,
+    "name": "PROHIBIDO EL INGRESO AREA RESTRINGIDA",
+    "category": "Prohibición",
+    "file": "imagenes/001_PROHIBIDO_EL_INGRESO_AREA_RESTRINGIDA.png"
+  },
+  {
+    "id": 2,
+    "name": "PROHIBIDO EL INGRESO CON ALIMENTOS",
+    "category": "Prohibición",
+    "file": "imagenes/002_PROHIBIDO_EL_INGRESO_CON_ALIMENTOS.png"
+  },
+  {
+    "id": 3,
+    "name": "PROHIBIDO HACER FUEGO",
+    "category": "Prohibición",
+    "file": "imagenes/003_PROHIBIDO_HACER_FUEGO.png"
+  },
+  {
+    "id": 4,
+    "name": "PROHIBIDO FUMAR",
+    "category": "Prohibición",
+    "file": "imagenes/004_PROHIBIDO_FUMAR.png"
+  },
+  {
+    "id": 5,
+    "name": "AGUA NO POTABLE PROHIBIDO BEBER",
+    "category": "Prohibición",
+    "file": "imagenes/005_AGUA_NO_POTABLE_PROHIBIDO_BEBER.png"
+  },
+  {
+    "id": 6,
+    "name": "PROHIBIDO UTILIZAR LOS ENVASES COMO RECIPIENTES",
+    "category": "Prohibición",
+    "file": "imagenes/006_PROHIBIDO_UTILIZAR_LOS_ENVASES_COMO_RECIPIENTES.png"
+  },
+  {
+    "id": 7,
+    "name": "PROHIBIDO CONECTAR SIN AUTORIZACION",
+    "category": "Prohibición",
+    "file": "imagenes/007_PROHIBIDO_CONECTAR_SIN_AUTORIZACION.png"
+  },
+  {
+    "id": 8,
+    "name": "PROHIBIDO MANIPULAR SOLO PERSONAL AUTORIZADO",
+    "category": "Prohibición",
+    "file": "imagenes/008_PROHIBIDO_MANIPULAR_SOLO_PERSONAL_AUTORIZADO.png"
+  },
+  {
+    "id": 9,
+    "name": "PROHIBIDO COMER O BEBER EN ESTA AREA",
+    "category": "Prohibición",
+    "file": "imagenes/009_PROHIBIDO_COMER_O_BEBER_EN_ESTA_AREA.png"
+  },
+  {
+    "id": 10,
+    "name": "PROHIBIDO ORINAR",
+    "category": "Prohibición",
+    "file": "imagenes/010_PROHIBIDO_ORINAR.png"
+  },
+  {
+    "id": 11,
+    "name": "PROHIBIDO EL PASO DE LOS PEATONES",
+    "category": "Prohibición",
+    "file": "imagenes/011_PROHIBIDO_EL_PASO_DE_LOS_PEATONES.png"
+  },
+  {
+    "id": 12,
+    "name": "PROHIBIDO BAÑARSE",
+    "category": "Prohibición",
+    "file": "imagenes/012_PROHIBIDO_BANARSE.png"
+  },
+  {
+    "id": 13,
+    "name": "EXTINTOR",
+    "category": "Emergencia",
+    "file": "imagenes/013_EXTINTOR.png"
+  },
+  {
+    "id": 14,
+    "name": "PROHIBIDO EL INGRESO CON ARMAS",
+    "category": "Prohibición",
+    "file": "imagenes/014_PROHIBIDO_EL_INGRESO_CON_ARMAS.png"
+  },
+  {
+    "id": 15,
+    "name": "PROHIBIDO TOMAR FOTOS O VIDEOS",
+    "category": "Prohibición",
+    "file": "imagenes/015_PROHIBIDO_TOMAR_FOTOS_O_VIDEOS.png"
+  },
+  {
+    "id": 16,
+    "name": "PROHIBIDO EL INGRESO CON ANIMALES",
+    "category": "Prohibición",
+    "file": "imagenes/016_PROHIBIDO_EL_INGRESO_CON_ANIMALES.png"
+  },
+  {
+    "id": 17,
+    "name": "VELOCIDAD MAXIMA",
+    "category": "Información",
+    "file": "imagenes/017_VELOCIDAD_MAXIMA.png"
+  },
+  {
+    "id": 18,
+    "name": "USO OBLIGATORIO DEL CASCO DE SEGURIDAD",
+    "category": "Obligación",
+    "file": "imagenes/018_USO_OBLIGATORIO_DEL_CASCO_DE_SEGURIDAD.png"
+  },
+  {
+    "id": 19,
+    "name": "SUSTANCIAS O MATERIAS INFLAMABLES",
+    "category": "Advertencia",
+    "file": "imagenes/019_SUSTANCIAS_O_MATERIAS_INFLAMABLES.png"
+  },
+  {
+    "id": 20,
+    "name": "SUSTANCIAS O MATERIAS TOXICAS",
+    "category": "Advertencia",
+    "file": "imagenes/020_SUSTANCIAS_O_MATERIAS_TOXICAS.png"
+  },
+  {
+    "id": 21,
+    "name": "RIESGO DE CORROSION",
+    "category": "Advertencia",
+    "file": "imagenes/021_RIESGO_DE_CORROSION.png"
+  },
+  {
+    "id": 22,
+    "name": "CUIDADO OBJETOS PUNZOCORTANTES",
+    "category": "Advertencia",
+    "file": "imagenes/022_CUIDADO_OBJETOS_PUNZ_CORTANTES.png"
+  },
+  {
+    "id": 23,
+    "name": "CUIDADO CAIDA DE OBJETOS",
+    "category": "Advertencia",
+    "file": "imagenes/023_CUIDADO_CAIDA_DE_OBJETOS.png"
+  },
+  {
+    "id": 24,
+    "name": "ATENCION CON SUS MANOS",
+    "category": "Advertencia",
+    "file": "imagenes/024_ATENCION_CON_SUS_MANOS.png"
+  },
+  {
+    "id": 25,
+    "name": "RIESGO DE AHOGAMIENTO",
+    "category": "Advertencia",
+    "file": "imagenes/025_RIESGO_DE_AHOGAMIENTO.png"
+  },
+  {
+    "id": 26,
+    "name": "ATENCION PELIGRO DE CAIDAS",
+    "category": "Advertencia",
+    "file": "imagenes/026_ATENCION_PELIGRO_DE_CAIDAS.png"
+  },
+  {
+    "id": 27,
+    "name": "ATENCION PELIGRO ELECTRICO",
+    "category": "Advertencia",
+    "file": "imagenes/027_ATENCION_PELIGRO_ELECTRICO.png"
+  },
+  {
+    "id": 28,
+    "name": "CUIDADO BALONES DE GAS",
+    "category": "Advertencia",
+    "file": "imagenes/028_CUIDADO_BALONES_DE_GAS.png"
+  },
+  {
+    "id": 29,
+    "name": "CUIDADO ALAMBRE CON PUAS",
+    "category": "Advertencia",
+    "file": "imagenes/029_CUIDADO_ALAMBRE_CON_PUAS.png"
+  },
+  {
+    "id": 30,
+    "name": "PELIGRO CAIDA DE OBJETOS",
+    "category": "Advertencia",
+    "file": "imagenes/030_PELIGRO_CAIDA_DE_OBJETOS.png"
+  },
+  {
+    "id": 31,
+    "name": "ATENCION PELIGRO DE OBSTACULOS",
+    "category": "Advertencia",
+    "file": "imagenes/031_ATENCION_PELIGRO_DE_OBSTACULOS.png"
+  },
+  {
+    "id": 32,
+    "name": "ONLIGATORIO MANTENER CERRADO",
+    "category": "Información",
+    "file": "imagenes/032_OBLIGATORIO_MANTENER_CERRADO.png"
+  },
+  {
+    "id": 33,
+    "name": "USO OBLIGATORIO DE LENTES DE SEGURIDAD",
+    "category": "Obligación",
+    "file": "imagenes/033_USO_OBLIGATORIO_DE_LENTES_DE_SEGURIDAD.png"
+  },
+  {
+    "id": 34,
+    "name": "USO OBLIGATORIO DE EQUIPO DE PROTECCION",
+    "category": "Obligación",
+    "file": "imagenes/034_USO_OBLIGATORIO_DE_EQUIPO_DE_PROTECCION.png"
+  },
+  {
+    "id": 35,
+    "name": "USO OBLIGATORIO DE ZAPATOS DE SEGURIDAD",
+    "category": "Obligación",
+    "file": "imagenes/035_USO_OBLIGATORIO_DE_ZAPATOS_DE_SEGURIDAD.png"
+  },
+  {
+    "id": 36,
+    "name": "USO OBLIGATORIO DE PROTECCION AUDITIVA",
+    "category": "Obligación",
+    "file": "imagenes/036_USO_OBLIGATORIO_DE_PROTECCION_AUDITIVA.png"
+  },
+  {
+    "id": 37,
+    "name": "USO OBLIGATORIO DE GUANTES DE SEGURIDAD",
+    "category": "Obligación",
+    "file": "imagenes/037_USO_OBLIGATORIO_DE_GUANTES_DE_SEGURIDAD.png"
+  },
+  {
+    "id": 38,
+    "name": "USO OBLIGATORIO DE CASO DE SEGURIDAD",
+    "category": "Obligación",
+    "file": "imagenes/038_USO_OBLIGATORIO_DE_CASCO_DE_SEGURIDAD.png"
+  },
+  {
+    "id": 39,
+    "name": "USO OBLIGATORIO DE DEDANTAL",
+    "category": "Obligación",
+    "file": "imagenes/039_USO_OBLIGATORIO_DE_DEDANTAL.png"
+  },
+  {
+    "id": 40,
+    "name": "USO OBLIGATORIO MANTENER SUJETADOS LOS CILINDROS",
+    "category": "Obligación",
+    "file": "imagenes/040_USO_OBLIGATORIO_MANTENER_SUJETADOS_LOS_CILINDROS.png"
+  },
+  {
+    "id": 41,
+    "name": "USO OBLIGATORIO MANTENER SUJETADOS LOS CILINDROS",
+    "category": "Obligación",
+    "file": "imagenes/041_USO_OBLIGATORIO_MANTENER_SUJETADOS_LOS_CILINDROS.png"
+  },
+  {
+    "id": 42,
+    "name": "ES OBLIGATORIO DESCONECTAR DESPUES DE UTILIZAR",
+    "category": "Obligación",
+    "file": "imagenes/042_ES_OBLIGATORIO_DESCONECTAR_DESPUES_DE_UTILIZAR.png"
+  },
+  {
+    "id": 43,
+    "name": "ES OBLIGATORIO LAVARSE LAS MANOS DESPUES DE APLICARSE BLOQUEADOR",
+    "category": "Obligación",
+    "file": "imagenes/043_ES_OBLIGATORIO_LAVARSE_LAS_MANOS_DESPUES_DE_APLICARSE_BLOQUEADOR.png"
+  },
+  {
+    "id": 44,
+    "name": "USO OBLIGATORIO DE MASCARILLA",
+    "category": "Obligación",
+    "file": "imagenes/044_USO_OBLIGATORIO_DE_MASCARILLA.png"
+  },
+  {
+    "id": 45,
+    "name": "USO OBLIGATORIO DE BLOQUEADOR SOLAR",
+    "category": "Obligación",
+    "file": "imagenes/045_USO_OBLIGATORIO_DE_BLOQUEADOR_SOLAR.png"
+  },
+  {
+    "id": 46,
+    "name": "USO OBLIGATORIO DE TACHOS Y CESTOS DE BASURA",
+    "category": "Obligación",
+    "file": "imagenes/046_USO_OBLIGATORIO_DE_TACHOS_Y_CESTOS_DE_BASURA.png"
+  },
+  {
+    "id": 47,
+    "name": "USO OBLIGATORIO DE MASCARAS DE SOLDAR",
+    "category": "Obligación",
+    "file": "imagenes/047_USO_OBLIGATORIO_DE_MASCARAS_DE_SOLDAR.png"
+  },
+  {
+    "id": 48,
+    "name": "AFORO",
+    "category": "Emergencia",
+    "file": "imagenes/048_AFORO.png"
+  },
+  {
+    "id": 49,
+    "name": "LAVAOJOS DE EMERGENCIA",
+    "category": "Emergencia",
+    "file": "imagenes/049_LAVAOJOS_DE_EMERGENCIA.png"
+  },
+  {
+    "id": 50,
+    "name": "ARO SALVAVIDAS",
+    "category": "Emergencia",
+    "file": "imagenes/050_ARO_SALVAVIDAS.png"
+  },
+  {
+    "id": 51,
+    "name": "PUNTO DE REUNION EN CASO DE EMERGENCIA",
+    "category": "Emergencia",
+    "file": "imagenes/051_PUNTO_DE_REUNION_EN_CASO_DE_EMERGENCIA.jpg"
+  },
+  {
+    "id": 53,
+    "name": "RESERVORIO PROFUNDO",
+    "category": "Emergencia",
+    "file": "imagenes/053_RESERVORIO_PROFUNDO.png"
+  },
+  {
+    "id": 54,
+    "name": "USO OBLIGATORIO DE PROTECCIÓN RESPIRATORIA",
+    "category": "Obligación",
+    "file": "imagenes/054_USO_OBLIGATORIO_DE_PROTECCION_RESPIRATORIA.png"
+  },
+  {
+    "id": 55,
+    "name": "USO OBLIGATORIO DE ROPA PROTECTORA",
+    "category": "Obligación",
+    "file": "imagenes/055_USO_OBLIGATORIO_DE_ROPA_PROTECTORA.png"
+  },
+  {
+    "id": 56,
+    "name": "USO OBLIGATORIO DE BOTAS DE SEGURIDAD",
+    "category": "Obligación",
+    "file": "imagenes/056_USO_OBLIGATORIO_DE_BOTAS_DE_SEGURIDAD.png"
+  }
+]
