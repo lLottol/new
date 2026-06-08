@@ -328,5 +328,11 @@
     "name": "USO OBLIGATORIO DE BOTAS DE SEGURIDAD",
     "category": "Obligación",
     "file": "imagenes/056_USO_OBLIGATORIO_DE_BOTAS_DE_SEGURIDAD.png"
+  },
+   {
+    "id": 57,
+    "name": "KIT CONTROL DE DERRAMES",
+    "category": "Emergencia",
+    "file": "imagenes/057_KIT_CONTROL_DE_DERRAMES.png"
   }
 ]
